@@ -5,15 +5,14 @@ using UnityEngine.UI;
 
 public class Cookiethecook : CharacterCard
 {
-    public GameManager gameManager;
     void Awake()
     {
-
+        
     }
     // Start is called before the first frame update
     void Start()
     {
-        
+        passInfo();
     }
 
     // Update is called once per frame

@@ -9,5 +9,4 @@ public class EntitySO : ScriptableObject
     public Sprite Design;
     public String Name;
     public String Description;
-
 }

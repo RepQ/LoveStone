@@ -6,10 +6,8 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public static GameManager gameManager;
-    public Frostbolt frostbolt;
-    public Cookiethecook cookieTheCook;
-    private Text mana;
-    private Text description;
+    public Image charImg, spellImg, tokenIgm, avatarImg;
+    public Text charDMG, charHP, charMANA, charDSC, charNAME, spellMANA, spellDSC, spellNAME, tokenDMG, tokenHP;
     void Awake()
     {
         if (gameManager == null)
@@ -25,14 +23,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (frostbolt)
-        {
-            mana = frostbolt.transform.Find("Mana").GetComponent<Text>();
-            mana.text = frostbolt.Mana.ToString();
-
-            description = frostbolt.transform.Find("Description").GetComponent<Text>();
-            description.text = frostbolt.Entity.Description;
-        }
+        
     }
 
     // Update is called once per frame
