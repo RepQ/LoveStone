@@ -10,13 +10,13 @@ public class RagnaroktheFireLord : CharacterCard , IEffect
     }
     private void Awake()
     {
-        Mana = 8;
-        Rarity = 2;
+        
     }
     // Start is called before the first frame update
     void Start()
     {
-        
+        passInfo();
+        Invoke(this.tokenToCreate);
     }
 
     // Update is called once per frame

@@ -5,7 +5,7 @@ using UnityEngine;
 public class Fighter : MonoBehaviour
 {
     public int Team;
-    public int CurrentHP;
+    public int HP;
 
     public void Attack(Fighter fighter)
     {

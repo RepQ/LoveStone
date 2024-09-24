@@ -6,6 +6,7 @@ using UnityEngine;
 public abstract class CharacterCard : Card
 {
     public CharacterSO Character;
+    public Token tokenToCreate;
 
     public void passInfo()
     {
@@ -19,7 +20,17 @@ public abstract class CharacterCard : Card
     }
     public void Invoke(Token token)
     {
-        Debug.LogWarning("Invoke Token");
+        token.Character = Character;
+        token.passInfo();
+        token.HP = Character.Hp;
+        token.CurrentDamage = Character.Damage;
+        token.Team = 1;
+        token.Position = 0;
+    }
+
+    private void Awake()
+    {
+        tokenToCreate = GetComponent<Token>();
     }
     // Start is called before the first frame update
     void Start()

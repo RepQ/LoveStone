@@ -7,8 +7,13 @@ namespace Game
     public abstract class Avatar : Fighter
     {
         public Power Power;
-        public int Armor;
+        public EntitySO Entity;
 
+        public void passInfo()
+        {
+            GameManager.gameManager.avatarImg.sprite = Entity.Design;
+            GameManager.gameManager.avatarNAME.text = Entity.Name;
+        }
         public void Interact()
         {
             Debug.LogWarning("Interact");

@@ -4,6 +4,13 @@ using UnityEngine;
 
 public abstract class Power : Invocable
 {
+    public EntitySO Entity;
+
+    public void passInfo()
+    {
+        GameManager.gameManager.powerImg.sprite = Entity.Design;
+        GameManager.gameManager.powerMANA.text = Mana.ToString();
+    }
     public void HeroPower()
     {
         Debug.LogWarning("HeroPower");

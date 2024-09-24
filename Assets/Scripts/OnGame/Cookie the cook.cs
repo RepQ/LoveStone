@@ -13,6 +13,7 @@ public class Cookiethecook : CharacterCard
     void Start()
     {
         passInfo();
+        Invoke(this.tokenToCreate);
     }
 
     // Update is called once per frame

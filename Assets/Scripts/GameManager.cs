@@ -6,8 +6,8 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public static GameManager gameManager;
-    public Image charImg, spellImg, tokenIgm, avatarImg;
-    public Text charDMG, charHP, charMANA, charDSC, charNAME, spellMANA, spellDSC, spellNAME, tokenDMG, tokenHP;
+    public Image charImg, spellImg, tokenImg, avatarImg, powerImg;
+    public Text charDMG, charHP, charMANA, charDSC, charNAME, spellMANA, spellDSC, spellNAME, tokenDMG, tokenHP, avatarNAME, powerMANA;
     void Awake()
     {
         if (gameManager == null)
