@@ -3,12 +3,26 @@ using System.Collections.Generic;
 using Unity.VisualScripting.Antlr3.Runtime;
 using UnityEngine;
 
-public class Token : Fighter
+public class Token : Fighter, IOnStart, IOnDamaged, IOnDead
 {
     public int Position;
     public int CurrentDamage;
     public CharacterSO Character;
 
+    public void OnStart()
+    {
+
+    }
+
+    public void OnDamaged()
+    {
+
+    }
+
+    public void OnDead()
+    {
+
+    }
     public void passInfo()
     {
         if (!Character)
@@ -29,7 +43,7 @@ public class Token : Fighter
     // Start is called before the first frame update
     void Start()
     {
-        
+        OnStart();
     }
 
     // Update is called once per frame

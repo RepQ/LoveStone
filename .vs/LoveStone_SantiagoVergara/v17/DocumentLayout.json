@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\jmmte\\OneDrive\\Escritorio\\SANTIAGO\\ITB\\UnityProjects\\LoveStone_SantiagoVergara\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC1523D7-DEAE-CAC9-9BA1-663A839EFA58}|Assembly-CSharp.csproj|C:\\Users\\jmmte\\OneDrive\\Escritorio\\SANTIAGO\\ITB\\UnityProjects\\LoveStone_SantiagoVergara\\assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC1523D7-DEAE-CAC9-9BA1-663A839EFA58}|Assembly-CSharp.csproj|c:\\users\\jmmte\\onedrive\\escritorio\\santiago\\itb\\unityprojects\\lovestone_santiagovergara\\assets\\scripts\\fighter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1523D7-DEAE-CAC9-9BA1-663A839EFA58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1523D7-DEAE-CAC9-9BA1-663A839EFA58}|Assembly-CSharp.csproj|c:\\users\\jmmte\\onedrive\\escritorio\\santiago\\itb\\unityprojects\\lovestone_santiagovergara\\assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC1523D7-DEAE-CAC9-9BA1-663A839EFA58}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\jmmte\\OneDrive\\Escritorio\\SANTIAGO\\ITB\\UnityProjects\\LoveStone_SantiagoVergara\\Assets\\Scripts\\Fighter\\Token.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\Token.cs",
+              "ToolTip": "C:\\Users\\jmmte\\OneDrive\\Escritorio\\SANTIAGO\\ITB\\UnityProjects\\LoveStone_SantiagoVergara\\Assets\\Scripts\\Fighter\\Token.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\Token.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:23:39.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Cookie the cook.cs",
               "DocumentMoniker": "C:\\Users\\jmmte\\OneDrive\\Escritorio\\SANTIAGO\\ITB\\UnityProjects\\LoveStone_SantiagoVergara\\Assets\\Scripts\\OnGame\\Cookie the cook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Cookie the cook.cs",
