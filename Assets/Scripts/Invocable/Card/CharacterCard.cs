@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using Unity.VisualScripting.Antlr3.Runtime;
 using UnityEngine;
 
-public abstract class CharacterCard : Card
+public abstract class CharacterCard : Card, IEffect
 {
     public CharacterSO Character;
     public Token tokenToCreate;
 
+    public virtual void Effect()
+    {
+        Debug.LogWarning("Effect");
+    }
     public void passInfo()
     {
         GameManager.gameManager.charImg.sprite = Character.Design;

@@ -9,6 +9,7 @@ namespace Game
         public Power Power;
         public EntitySO Entity;
 
+
         public void passInfo()
         {
             GameManager.gameManager.avatarImg.sprite = Entity.Design;

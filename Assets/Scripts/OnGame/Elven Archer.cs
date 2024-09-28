@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ElvenArcher : CharacterCard, IEffect
+public class ElvenArcher : CharacterCard
 {
 
-    public void Effect()
+    public override void Effect()
     {
         Debug.LogWarning("Deal 1 damage.");
     }

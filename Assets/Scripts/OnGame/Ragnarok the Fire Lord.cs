@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RagnaroktheFireLord : CharacterCard , IEffect
+public class RagnaroktheFireLord : CharacterCard
 {
-    public void Effect()
+    public override void Effect()
     {
         Debug.LogWarning("Deal 1 damage.");
     }

@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\fighter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\ongame\\ragnarok the fire lord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\ragnarok the fire lord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\ongame\\elven archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\elven archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\ongame\\argent squire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\ongame\\argent squire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\argent squire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\ongame\\anduin wrynn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\anduin wrynn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\ongame\\elven archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\elven archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\invocable\\card\\charactercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invocable\\card\\charactercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\fighter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\invocable\\card\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invocable\\card\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\ongame\\frostbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\frostbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\fighter\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|c:\\users\\kenka\\onedrive\\desktop\\santiago\\lovestone\\assets\\scripts\\fighter\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\cookie the cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\ongame\\anduin wrynn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ongame\\anduin wrynn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7CAA6B-EB93-92DB-4E25-823E77449699}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,30 +58,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ragnarok the Fire Lord.cs",
-              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
-              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
-              "RelativeToolTip": "Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SpellCard.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Invocable\\Card\\SpellCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Invocable\\Card\\SpellCard.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Invocable\\Card\\SpellCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Invocable\\Card\\SpellCard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:02:34.903Z",
+              "WhenOpened": "2024-09-28T13:07:31.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Elven Archer.cs",
               "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Elven Archer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Elven Archer.cs",
               "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Elven Archer.cs",
               "RelativeToolTip": "Assets\\Scripts\\OnGame\\Elven Archer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:02:12.893Z",
               "EditorCaption": ""
@@ -86,6 +102,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CharacterCard.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:13:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ragnarok the Fire Lord.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnGame\\Ragnarok the Fire Lord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:02:34.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Token.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\Token.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Token.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\Token.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:12:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frostbolt.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Frostbolt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Frostbolt.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Frostbolt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnGame\\Frostbolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:07:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Fighter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\Fighter.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Fighter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\Fighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:19:54.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Avatar.cs",
+              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Avatar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\Avatar.cs",
+              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Avatar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\Avatar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:19:01.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Anduin Wrynn.cs",
               "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Anduin Wrynn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Anduin Wrynn.cs",
@@ -93,12 +187,11 @@
               "RelativeToolTip": "Assets\\Scripts\\OnGame\\Anduin Wrynn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:38:47.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T00:38:47.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -110,31 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Token.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\Token.cs",
-              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Fighter\\Token.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Fighter\\Token.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:12:23.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CharacterCard.cs",
-              "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
-              "ToolTip": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Invocable\\Card\\CharacterCard.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T20:13:40.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Cookie the cook.cs",
               "DocumentMoniker": "C:\\Users\\kenka\\OneDrive\\Desktop\\Santiago\\LoveStone\\Assets\\Scripts\\OnGame\\Cookie the cook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OnGame\\Cookie the cook.cs",
@@ -142,8 +211,7 @@
               "RelativeToolTip": "Assets\\Scripts\\OnGame\\Cookie the cook.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T21:38:24.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T21:38:24.447Z"
             }
           ]
         }

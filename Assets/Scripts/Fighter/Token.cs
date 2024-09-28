@@ -3,26 +3,12 @@ using System.Collections.Generic;
 using Unity.VisualScripting.Antlr3.Runtime;
 using UnityEngine;
 
-public class Token : Fighter, IOnStart, IOnDamaged, IOnDead
+public class Token : Fighter
 {
     public int Position;
     public int CurrentDamage;
     public CharacterSO Character;
 
-    public void OnStart()
-    {
-
-    }
-
-    public void OnDamaged()
-    {
-
-    }
-
-    public void OnDead()
-    {
-
-    }
     public void passInfo()
     {
         if (!Character)

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Frostbolt : SpellCard, IEffect
+public class Frostbolt : SpellCard
 { 
-    public void Effect()
+    public override void Effect()
     {
         Debug.LogWarning("Deal 3 damage to a character an Freeze it");
     }
